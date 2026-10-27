@@ -47,8 +47,7 @@ Menus support keyboard and mouse.
 - Offline leaderboard with local high scores.
 - Portable executables with embedded game assets.
 
-<img src="screenshots/Vaul_Hunters.png" width="48%">
-<img src="screenshots/High_Scores.png" width="48%">
+<img src="screenshots/Vaul_Hunters.png" width="48%"> <img src="screenshots/High_Scores.png" width="48%">
 
 ## Credits
 
