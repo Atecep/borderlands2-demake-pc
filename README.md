@@ -4,6 +4,8 @@ A native version of **The Border Lands**, the free Flash promotional game releas
 
 Rebuilt in **C++20/SDL2** to run on modern Windows and Linux systems, without Flash, Ruffle, or an internet connection.
 
+![Main Menu](screenshots/Main_Menu.png)
+
 ## Download
 
 Get the latest version from [Releases](../../releases).
@@ -34,6 +36,7 @@ chmod +x Borderlands2Demake-Linux-x86_64.AppImage
 | Fullscreen | F11 / Alt+Enter |
 
 Menus support keyboard and mouse.
+![Gameplay](screenshots/Gameplay.png)
 
 ## Features
 
@@ -42,7 +45,8 @@ Menus support keyboard and mouse.
 - Gameplay reconstructed to closely match the Flash original.
 - Offline leaderboard with local high scores.
 - Portable executables with embedded game assets.
-
+![Character Selection](screenshots/Vaul_Hunters.png)
+![Leaderboard](screenshots/High_Scores.png)
 ## Credits
 
 All original Borderlands characters, artwork, audio, and related intellectual property belong to their respective owners.
