@@ -46,7 +46,7 @@ Menus support keyboard and mouse.
 - Gameplay reconstructed to closely match the Flash original.
 - Offline leaderboard with local high scores.
 - Portable executables with embedded game assets.
-- 
+
 ![Character Selection](screenshots/Vaul_Hunters.png)
 ![Leaderboard](screenshots/High_Scores.png)
 
