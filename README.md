@@ -43,9 +43,11 @@ Menus support keyboard and mouse.
 Android supports on-screen touch controls for movement, firing, reloading, weapon selection, and pause.
 
 **Windows and Linux:**
+
 <img src="screenshots/Gameplay.png" width="48%"> 
 
 **Android:**
+
 <img src="screenshots/Android.jpeg" width="90%">
 
 ## Features
