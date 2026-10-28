@@ -2,7 +2,7 @@
 
 A native version of **The Border Lands**, the free Flash promotional game released in 2012 for *Borderlands 2*. Also knows as Borderlands 2 Demake.
 
-Rebuilt in **C++20/SDL2** to run on modern Windows and Linux systems, without Flash, Ruffle, or an internet connection.
+Rebuilt in **C++20/SDL2** to run on modern Windows, Linux, and Android devices, without Flash, Ruffle, or an internet connection.
 
 ![Main Menu](screenshots/Main_Menu.png)
 
@@ -14,6 +14,7 @@ Get the latest version from [Releases](../../releases).
 |---|---|
 | Windows 10/11 (x64) | `Borderlands2Demake-Windows-x64.exe` |
 | Linux (x86-64) | `Borderlands2Demake-Linux-x86_64.AppImage` |
+| Android 7.0+ (ARM64) | `Borderlands2Demake-Android-arm64.apk` |
 
 **Windows:** Download and run the `.exe`.
 
@@ -23,6 +24,8 @@ Get the latest version from [Releases](../../releases).
 chmod +x Borderlands2Demake-Linux-x86_64.AppImage
 ./Borderlands2Demake-Linux-x86_64.AppImage
 ```
+
+**Android:** Download the `.apk` and install it on your device. You may need to allow installation from your browser or file manager.
 
 ## Controls
 
@@ -36,11 +39,13 @@ chmod +x Borderlands2Demake-Linux-x86_64.AppImage
 | Fullscreen | F11 / Alt+Enter |
 
 Menus support keyboard and mouse.
+Android supports on-screen touch controls for movement, firing, reloading, weapon selection, and pause.
 
-![Gameplay](screenshots/Gameplay.png)
+<img src="screenshots/Gameplay.png" width="48%"> <img src="screenshots/Android.jpeg" width="48%">
 
 ## Features
 
+- Native Windows, Linux, and Android support.
 - Four playable Vault Hunters: Salvador, Maya, Zer0, and Axton
 - Original weapons, enemies, maps, graphics, and audio.
 - Gameplay reconstructed to closely match the Flash original.
