@@ -39,9 +39,11 @@ chmod +x Borderlands2Demake-Linux-x86_64.AppImage
 | Fullscreen | F11 / Alt+Enter |
 
 Menus support keyboard and mouse.
+
 Android supports on-screen touch controls for movement, firing, reloading, weapon selection, and pause.
 
-<img src="screenshots/Gameplay.png" width="48%"> <img src="screenshots/Android.jpeg" width="48%">
+<img src="screenshots/Gameplay.png" width="48%"> 
+<img src="screenshots/Android.jpeg" width="90%">
 
 ## Features
 
